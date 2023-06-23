@@ -1,2 +1,4 @@
 # myportfoliobackend
-myportfoliobackend
+# NAME: DUESENBERRY MBIAKNG
+# MATRICULE: FE21A175 
+# THIS REPO CONTAINS THE BACKEND FOR THE THE "myportfolio" repository 
